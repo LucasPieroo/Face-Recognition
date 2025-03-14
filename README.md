@@ -56,7 +56,7 @@ Tested multiple architectures for comparison:
 ---
 
 ## 📊 Results & Insights  
-![Model Comparison](image.png)  
+
 
 **Key Takeaways**:  
 1. **Transfer Learning Dominance**: Pre-trained models (VGGFace, DeepFace) outperformed custom CNNs by **~50%**, emphasizing the value of leveraging existing knowledge.  
